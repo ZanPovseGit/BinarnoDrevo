@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kK4zndvw+U5g+A8leVr/c8m2Wgyf5CBnAeT5JlwKMArpmEKCyWA8TwyK8NWyjxIUw3JXR9Z4CjgDhmthNvgfrw==",
+  "success": true,
+  "projectFilePath": "F:\\Vsi porjekti\\podatkovna_nal4\\podatkovna_nal4\\BinarnoDrevo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Uporabnik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Uporabnik\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Uporabnik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Uporabnik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

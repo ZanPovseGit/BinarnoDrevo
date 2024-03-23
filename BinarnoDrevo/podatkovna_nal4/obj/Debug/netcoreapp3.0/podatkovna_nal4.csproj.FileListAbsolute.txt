@@ -1,0 +1,11 @@
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\bin\Debug\netcoreapp3.0\podatkovna_nal4.exe
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\bin\Debug\netcoreapp3.0\podatkovna_nal4.deps.json
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\bin\Debug\netcoreapp3.0\podatkovna_nal4.runtimeconfig.json
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\bin\Debug\netcoreapp3.0\podatkovna_nal4.runtimeconfig.dev.json
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\bin\Debug\netcoreapp3.0\podatkovna_nal4.dll
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\bin\Debug\netcoreapp3.0\podatkovna_nal4.pdb
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\obj\Debug\netcoreapp3.0\podatkovna_nal4.csprojAssemblyReference.cache
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\obj\Debug\netcoreapp3.0\podatkovna_nal4.AssemblyInfoInputs.cache
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\obj\Debug\netcoreapp3.0\podatkovna_nal4.AssemblyInfo.cs
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\obj\Debug\netcoreapp3.0\podatkovna_nal4.dll
+C:\Users\zan\source\repos\podatkovna_nal4\podatkovna_nal4\obj\Debug\netcoreapp3.0\podatkovna_nal4.pdb
